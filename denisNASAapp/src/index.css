@@ -99,7 +99,6 @@ footer button:hover{
   background: #030615;
   opacity: 0.2;
 }
-
 .sideBarContents{
   z-index: 15;
   position: relative;
@@ -167,6 +166,7 @@ footer button:hover{
   gap: 0.5rem;
   width: 100%;
 }
+
 @keyframes spin{
   from {
     transform: rotate(0deg) ;

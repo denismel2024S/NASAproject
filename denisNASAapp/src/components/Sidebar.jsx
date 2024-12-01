@@ -13,6 +13,6 @@ export default function Sidebar(props){
                     <i className="fa-solid fa-arrow-right"></i>
                     </button>
                 </div>
-        </div>
-    )
+    </div>
+    );
 }
